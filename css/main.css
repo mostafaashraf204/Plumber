@@ -183,3 +183,127 @@
             margin: 1.5% 0 0 -7%;
             width: 50%;
         }
+        
+        .section3 {
+            width: 100%;
+            height: 90vh;
+            background-color: #f9f9ff;
+        }
+        
+        .maintenance_key_in_section3 {
+            width: 50%;
+            height: 90vh;
+            background-image: url('../images/2.jpg');
+            background-repeat: no-repeat;
+        }
+        
+        .Features_in_section3 {
+            margin: -40% 0 0 42%;
+        }
+        
+        .Features_in_section3 h2 {
+            font-size: 40px;
+        }
+        
+        .Features_in_section3 p {
+            font-size: 14px;
+            color: rgb(156, 156, 156);
+        }
+        
+        .boxs_in_section3 {
+            width: 45%;
+            height: 65vh;
+            background-color: #f9f9ff;
+            margin: 3% 0 0 42%;
+        }
+        
+        .box1 {
+            width: 350px;
+            height: 250px;
+            background-color: rgb(255, 255, 255);
+            transition: 0.3s;
+        }
+        
+        .box1:hover {
+            box-shadow: rgba(0, 0, 0, 0.062) 0px 10px 15px;
+        }
+        
+        .box1 h3 {
+            padding-top: 11%;
+            margin: 0 0 0 10%;
+        }
+        
+        .box1 p {
+            margin: 8% 0 0 10%;
+            font-size: 15px;
+            color: rgb(156, 156, 156);
+        }
+        
+        .box2 {
+            width: 350px;
+            height: 250px;
+            background-color: rgb(255, 255, 255);
+            margin: -29.4% 0 0 50%;
+            transition: 0.3s;
+        }
+        
+        .box2:hover {
+            box-shadow: rgba(0, 0, 0, 0.062) 0px 10px 15px;
+        }
+        
+        .box2 h3 {
+            padding-top: 11%;
+            margin: 0 0 0 10%;
+        }
+        
+        .box2 p {
+            margin: 8% 0 0 10%;
+            font-size: 15px;
+            color: rgb(156, 156, 156);
+        }
+        
+        .box3 {
+            width: 350px;
+            height: 250px;
+            background-color: rgb(255, 255, 255);
+            transition: 0.3s;
+            margin-top: 3%;
+        }
+        
+        .box3:hover {
+            box-shadow: rgba(0, 0, 0, 0.062) 0px 10px 15px;
+        }
+        
+        .box3 h3 {
+            padding-top: 11%;
+            margin: 0 0 0 10%;
+        }
+        
+        .box3 p {
+            margin: 8% 0 0 10%;
+            font-size: 15px;
+            color: rgb(156, 156, 156);
+        }
+        
+        .box4 {
+            width: 350px;
+            height: 250px;
+            background-color: rgb(255, 255, 255);
+            transition: 0.3s;
+            margin: -29% 0 0 50%;
+        }
+        
+        .box4:hover {
+            box-shadow: rgba(0, 0, 0, 0.062) 0px 10px 15px;
+        }
+        
+        .box4 h3 {
+            padding-top: 11%;
+            margin: 0 0 0 10%;
+        }
+        
+        .box4 p {
+            margin: 8% 0 0 10%;
+            font-size: 15px;
+            color: rgb(156, 156, 156);
+        }
